@@ -4,7 +4,7 @@
 
 Deputy Director at Pushkin Studio ([MY.GAMES](https://my.games/)) (ex. tech lead). Working with Unreal Engine since 2010. In love with open source. Open for creative collaboration on promising projects.
 
-* [Public Talks](/public-talks.md)
+* [Public Talks](/public-talks)
 * [My Projects](https://www.artstation.com/alyamkin)
 * [UE4 Marketplace](https://www.unrealengine.com/marketplace/en-US/profile/Vladimir+Alyamkin)
 
