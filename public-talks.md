@@ -31,7 +31,7 @@
 ## Подкасты и стримы
 
  - 2022 - Как Делают Игры 349, ["Архитектура MVU в программировании игр"](https://youtu.be/wH_d2U9D1t8)
- - 2022 - Манжеты ГД, ["Смотрим в будущее Unreal Engine 5 | Радио ГД #57"](https://youtu.be/unHLe09DXPQ)
+ - 2022 - Манжеты ГД, ["Смотрим в будущее Unreal Engine 5 \| Радио ГД #57"](https://youtu.be/unHLe09DXPQ)
  - 2021 - DevGAMM 2021 Online, Панельная дискуссия ["Unreal Engine 5: надежды и спекуляции"](https://youtu.be/fb4ec9pZBN0)
  - 2021 - go_v_gamedev, ["Всё о профессии разработчик/программист"](https://youtu.be/0aC_xxabKps)
  - 2020 - GameNet, ["Разработка основных механик стеккинг игры (tower builder) на Unreal Engine"](https://youtu.be/_pvzGxWPhi0)
