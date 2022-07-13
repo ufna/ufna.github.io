@@ -13,6 +13,7 @@ Connect with me:
 * [Telegram](https://t.me/ufnadev)
 * [Discord](https://discord.gg/N92pzqJ)
 * [Habr](https://habr.com/ru/users/ufna/posts/)
+* [LinkedIn](https://www.linkedin.com/in/alyamkin/)
 
 You have an excellent idea for UE plugin? Hit me.
 
