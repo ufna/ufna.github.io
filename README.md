@@ -13,7 +13,6 @@ In love with open source. Open for creative collaboration on promising projects.
 Connect with me:
 * [Github](https://github.com/ufna)
 * [Telegram](https://t.me/ufnadev)
-* [Discord](https://discord.gg/N92pzqJ)
 * [Habr](https://habr.com/ru/users/ufna/posts/)
 * [LinkedIn](https://www.linkedin.com/in/alyamkin/)
 
