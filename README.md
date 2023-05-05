@@ -4,6 +4,8 @@
 
 Jack-of-all-trades with more than a decade of Unreal Engine experience, noted by Epic Games with Lifetime Contribution Award 2018. Years of experience in managing teams and building products up to million DAU.
 
+![I have approximate knowledge of many things!](DISCLAIMER.png)
+
 In love with open source. Open for creative collaboration on promising projects.
 
 * [Public Talks](/public-talks)
