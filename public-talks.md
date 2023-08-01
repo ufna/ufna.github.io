@@ -1,5 +1,6 @@
 ## Доклады и конференции
 
+ - MY.GAMES Gamedev Meetup Belgrade 2023, ["Unreal Engine Networking: You're Doing It Wrong"](https://youtu.be/4IVhg83rw9Q)
  - DevGAMM 2021 Moscow, ["Казуальные мобильные игры на Unreal Engine 4"](https://youtu.be/VMQCmcUY60U)
  - GameDevTech 2020 от МИЭМ НИУ ВШЭ, ["Unreal Engine: типичные ошибки и вредные советы"](https://youtu.be/_6ajSiRB5QU)
  - Game Innovators 2020, "Best Practices Unreal Engine: технология и разработка"
