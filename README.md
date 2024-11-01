@@ -8,7 +8,6 @@ In love with open source. Open for creative collaboration on promising projects.
 
 * [Public Talks](/public-talks)
 * [My Projects](https://www.artstation.com/alyamkin)
-* [UE4 Marketplace](https://www.unrealengine.com/marketplace/en-US/profile/Vladimir+Alyamkin)
 
 Connect with me:
 * [Github](https://github.com/ufna)
